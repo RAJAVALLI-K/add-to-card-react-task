@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/add-to-card-react-task/static/css/main.d0819d1e.css",
+    "main.js": "/add-to-card-react-task/static/js/main.a6c9c242.js",
+    "static/js/787.bfe5a77b.chunk.js": "/add-to-card-react-task/static/js/787.bfe5a77b.chunk.js",
+    "index.html": "/add-to-card-react-task/index.html",
+    "main.d0819d1e.css.map": "/add-to-card-react-task/static/css/main.d0819d1e.css.map",
+    "main.a6c9c242.js.map": "/add-to-card-react-task/static/js/main.a6c9c242.js.map",
+    "787.bfe5a77b.chunk.js.map": "/add-to-card-react-task/static/js/787.bfe5a77b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d0819d1e.css",
+    "static/js/main.a6c9c242.js"
+  ]
+}
